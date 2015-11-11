@@ -18,7 +18,7 @@
 #
 
 category: common
-depends: gnuradio glfw3
+depends: gnuradio glfw3 libpng16
 source: git://git://git.osmocom.org/gr-fosphor
 gitbranch: master
 # NOTE: If cmake does not find your libOpenCL.so you may
